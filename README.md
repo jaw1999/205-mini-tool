@@ -29,7 +29,7 @@ export LD_LIBRARY_PATH=/usr/local/lib:\$LD_LIBRARY_PATH
 1. Clone the repository:
 
    \`\`\`bash
-   git clone https://github.com/your-username/205-mini-tool.git
+   git clone https://github.com/jaw1999/205-mini-tool.git
    cd 205-mini-tool
    \`\`\`
 
